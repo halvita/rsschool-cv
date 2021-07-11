@@ -1,1 +1,1 @@
-# rsschool
+https://halvita.github.io/rsschool-cv/cv
