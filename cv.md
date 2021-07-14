@@ -20,6 +20,8 @@ Have some experience in:
 * IDE Visual Studio 2019
 * Visual Studio Code
 * C#
+* .NET Core
+* ASP.NET Core Razor pages
 * ASP.NET Core MVC
 * ASP.NET Core Web API
 * HTTP
