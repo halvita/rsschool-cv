@@ -1,0 +1,30 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-left: 25px;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.summary,
+.information
+{
+    display: flex;
+}
+
+.experience,
+.contact,
+.languages
+{
+    width: 500px;
+}
